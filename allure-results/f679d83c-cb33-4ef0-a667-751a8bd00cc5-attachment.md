@@ -1,0 +1,77 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=e6]
+        - generic [ref=e7]:
+          - list [ref=e8]:
+            - link "Home" [ref=e9] [cursor=pointer]:
+              - /url: /
+              - listitem [ref=e10]:
+                - generic [ref=e11]: Home
+            - link "About" [ref=e12] [cursor=pointer]:
+              - /url: /about
+              - listitem [ref=e13]:
+                - generic [ref=e14]: About
+            - link "Brands" [ref=e15] [cursor=pointer]:
+              - /url: /brands
+              - listitem [ref=e16]:
+                - generic [ref=e17]: Brands
+            - link "Cars" [ref=e18] [cursor=pointer]:
+              - /url: /cars
+              - listitem [ref=e19]:
+                - generic [ref=e20]: Cars
+            - link "0" [ref=e21] [cursor=pointer]:
+              - /url: /cart
+              - listitem [ref=e22]:
+                - img [ref=e24]
+                - generic [ref=e26]: "0"
+          - list [ref=e27]:
+            - link "Login" [ref=e28] [cursor=pointer]:
+              - /url: /login
+              - generic [ref=e29]: Login
+            - link "Register" [ref=e30] [cursor=pointer]:
+              - /url: /register
+              - generic [ref=e31]: Register
+  - generic [ref=e35]:
+    - generic [ref=e37]:
+      - img
+    - generic [ref=e39]:
+      - generic [ref=e40]:
+        - heading "Welcome" [level=2] [ref=e41]
+        - paragraph [ref=e42]: Your Dream Car is Waiting !
+      - textbox "Your name" [ref=e45]: "!!!@@@"
+      - textbox "Your email ID" [ref=e48]: not-an-email
+      - textbox "Your password" [active] [ref=e51]: "123"
+      - spinbutton [ref=e54]
+      - textbox "Your address" [ref=e57]
+      - button "Register" [ref=e60] [cursor=pointer]
+      - link "Login" [ref=e63] [cursor=pointer]:
+        - /url: /login
+  - generic [ref=e67]:
+    - generic [ref=e68]:
+      - heading "carwale" [level=3] [ref=e69]
+      - paragraph [ref=e70]: At CarWale, we're dedicated to making your car buying experience as smooth as the road ahead. With a wide range of brands, expert guidance, secure transactions, and innovative features, we're your trusted partner on your journey to finding the perfect ride. Drive your dreams with CarWale, where your satisfaction is our ultimate destination.
+    - generic [ref=e71]:
+      - heading "Contact" [level=3] [ref=e72]
+      - paragraph [ref=e73]:
+        - text: dodiyameet041@gmail.com
+        - generic [ref=e74]:
+          - text: K.T Marg, Vidyavardhini's College of Engineering and Technology,
+          - text: Vasai, Maharashtra, India
+    - generic [ref=e75]:
+      - heading "Social Media" [level=3] [ref=e76]
+      - paragraph [ref=e77]:
+        - link [ref=e78] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/meetdodiya/
+          - img [ref=e79]
+        - link [ref=e81] [cursor=pointer]:
+          - /url: https://github.com/MeetDOD
+          - img [ref=e82]
+    - generic [ref=e85]: © 2023 carwale™. All Rights Reserved.
+```
