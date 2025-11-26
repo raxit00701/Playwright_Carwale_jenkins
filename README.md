@@ -28,9 +28,14 @@ Allure Reporting with Screenshots, Videos & Logs
 🚀 Project Highlights
 
 allure report: https://drive.google.com/file/d/1nLmTGdXBifKDfgx7KaVIYmT1frG_15tI/view?usp=sharing
+
+
+
 test cases status: https://drive.google.com/file/d/1q8dwBvUqJjS8PDPgWMNwJTHncgDrwfwx/view?usp=sharing
 
+
 🔹 1. Comprehensive Automated UI Test Scenarios
+
 | Feature             | Description                                                    |
 | ------------------- | -------------------------------------------------------------- |
 | **Signup**          | New user registration flow                                     |
