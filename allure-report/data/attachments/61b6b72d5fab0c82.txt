@@ -1,0 +1,2 @@
+🛒 Test Passed: Cart button clicked and Cart page displayed
+✅ Test Passed: "Item Removed Successfully" message displayed

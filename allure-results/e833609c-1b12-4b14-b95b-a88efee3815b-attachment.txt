@@ -1,0 +1,4 @@
+🔘 Logout button text: Logout
+🔘 Dashboard button text: Dashboard
+📌 Element text: Welcome, john doe
+✅ Test Passed: user name is visible

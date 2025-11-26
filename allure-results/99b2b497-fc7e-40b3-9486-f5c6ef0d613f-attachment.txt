@@ -1,0 +1,12 @@
+BROWSER CONSOLE: verbose [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+🔘 Dashboard button text: Dashboard
+🖱️  Clicking Orders link...
+✅ Captured Authorization header: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTIwNjViZWYwNzgxOWVhYjNlN2U0OGMiLCJpYXQiOjE3NjQxNTc3MDF9.l4DyC-qXN7YG-LlFMUhWP8C6pt9ds63dOwr_VUud53M
+🎭 Using MOCKED response
+✅ Orders API intercepted successfully
+✅ Badge is visible
+✅✅✅ Token successfully captured: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTIwNjViZWYwNzgxOWVhYjNlN2U0OGMiLCJpYXQiOjE3NjQxNTc3MDF9.l4DyC-qXN7YG-LlFMUhWP8C6pt9ds63dOwr_VUud53M
+✅ Mocked car data is displayed correctly
+✅ Mocked order status "Delivered" is displayed
+✅ Total order badges found: 1
+   Expected: 1 (our single mocked order)

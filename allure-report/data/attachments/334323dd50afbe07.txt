@@ -1,0 +1,7 @@
+🚀 Running session: Valid Login
+🔘 [Valid Login] Logout button text: Logout
+🔘 [Valid Login] Dashboard button text: Dashboard
+📌 [Valid Login] Element text: Welcome, john doe
+✅ [Valid Login] Test Passed: user name is visible
+🚀 Running session: Invalid Login
+⚠️ [Invalid Login] Error message: Invalid Email or Password!

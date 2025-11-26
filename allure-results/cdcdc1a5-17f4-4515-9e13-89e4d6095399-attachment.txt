@@ -1,0 +1,134 @@
+
+=== PART 2: Testing Radio Buttons with All Checkboxes ===
+☑️ Checkbox 1 checked
+✅ Clicked radio: input.ant-radio-input[value="1,50"]
+🔍 Found 2 car filtered cards:
+🚗 Card 1:
+Hyundai
+
+Hyundai Grand i10
+ : 5.95 Lakhs
+ : Petrol, Diesel
+ : 4.5
+ : 5 Seater
+ View Add To Cart
+
+🚗 Card 2:
+Hyundai
+
+Hyundai Venue
+ : 14.79 Lakhs
+ : Petrol, Diesel
+ : 4.2
+ : 5 Seater
+ View Add To Cart
+
+🔄 Clicked RESET FILTERS button
+---
+☑️ Checkbox 1 checked
+✅ Clicked radio: input.ant-radio-input[value="51,100"]
+❌ No filtered cards found
+🔄 Clicked RESET FILTERS button
+---
+☑️ Checkbox 2 checked
+✅ Clicked radio: input.ant-radio-input[value="1,50"]
+❌ No filtered cards found
+🔄 Clicked RESET FILTERS button
+---
+☑️ Checkbox 2 checked
+✅ Clicked radio: input.ant-radio-input[value="51,100"]
+🔍 Found 2 car filtered cards:
+🚗 Card 1:
+Mercedes Benz
+
+Mercedes-Benz GLC
+ : 52.12 Lakhs
+ : Diesel, Petrol
+ : 4.9
+ : 5 Seater
+ View Add To Cart
+
+🚗 Card 2:
+Mercedes Benz
+
+Mercedes-Benz E-Class
+ : 73.33 Lakhs
+ : Petrol, Diesel
+ : 4.9
+ : 5 Seater
+ View Add To Cart
+
+🔄 Clicked RESET FILTERS button
+---
+☑️ Checkbox 3 checked
+✅ Clicked radio: input.ant-radio-input[value="1,50"]
+🔍 Found 3 car filtered cards:
+🚗 Card 1:
+Mahindra
+
+Mahindra Alturas G4
+ : 34.74 Lakhs
+ : Diesel
+ : 5 Star (KNCAP)
+ : 7 Seater
+ View Add To Cart
+
+🚗 Card 2:
+Mahindra
+
+Mahindra KUV100 NXT
+ : 5.16 Lakhs
+ : Petrol, Diesel
+ : 4.4
+ : 5 - 6 Seater
+ View Add To Cart
+
+🚗 Card 3:
+Mahindra
+
+Mahindra Scorpio
+ : 13.07 Lakhs
+ : Diesel
+ : 4.4
+ : 7 - 9 Seater
+ View Add To Cart
+
+🔄 Clicked RESET FILTERS button
+---
+☑️ Checkbox 3 checked
+✅ Clicked radio: input.ant-radio-input[value="51,100"]
+❌ No filtered cards found
+🔄 Clicked RESET FILTERS button
+---
+☑️ Checkbox 4 checked
+✅ Clicked radio: input.ant-radio-input[value="1,50"]
+🔍 Found 2 car filtered cards:
+🚗 Card 1:
+Honda
+
+Honda City 4thG
+ : 10.67 Lakhs
+ : Petrol, Diesel
+ : 4 Star (Global NCAP)
+ : 5 Seater
+ View Add To Cart
+
+🚗 Card 2:
+Honda
+
+Honda Amaze
+ : 7.15 Lakhs
+ : Petrol, Diesel
+ : 4 Star (Global NCAP)
+ : 5 Seater
+ View Add To Cart
+
+🔄 Clicked RESET FILTERS button
+---
+☑️ Checkbox 4 checked
+✅ Clicked radio: input.ant-radio-input[value="51,100"]
+❌ No filtered cards found
+🔄 Clicked RESET FILTERS button
+---
+
+=== Test Completed ===

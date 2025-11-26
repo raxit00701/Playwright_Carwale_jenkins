@@ -1,0 +1,16 @@
+{
+  "sessions": [
+    {
+      "name": "Valid Login",
+      "email": "fekemif391@bipochub.com",
+      "password": "Password@12",
+      "expected": "success"
+    },
+    {
+      "name": "Invalid Login",
+      "email": "invalid_user@test.com",
+      "password": "WrongPass123",
+      "expected": "failure"
+    }
+  ]
+}

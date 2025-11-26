@@ -1,0 +1,14 @@
+🔎 Elements inside .col-lg-7: [
+  'Hello john doe\n' +
+    '\n' +
+    'Shopping cart\n' +
+    '\n' +
+    'You Have 1 items in your cart\n' +
+    '\n' +
+    'Hyundai\n' +
+    '\n' +
+    'Hyundai Venue\n' +
+    '\n' +
+    '₹ 14.79 Lakhs'
+]
+🔎 Elements inside .col-md-9.my-3: []

@@ -1,0 +1,3 @@
+Auth Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTIwNjViZWYwNzgxOWVhYjNlN2U0OGMiLCJpYXQiOjE3NjQxNTc2NTV9.0WTdA3Gb3lLFqxruOwTWJRkWDlel-s8zRRlC3V_viCc
+Empty Cart .mb-1 Text: Shopping cart
+Empty Cart .mb-0 Text:  Your Cart Is Empty
