@@ -1,6 +1,7 @@
 CarWale – End-to-End Test Automation with Playwright (JavaScript)
 
 A complete UI + API automation framework built using Playwright JS, designed to test core user journeys of:
+
 👉 https://carwale.onrender.com/
 
 
@@ -122,7 +123,7 @@ project-folder/
 │── package.json
 │── README.md
 
-Gdrive link for stucture: https://drive.google.com/file/d/1JVsisPMjPnrMV2YykYsmZfUK0yal5FTz/view?usp=sharing
+Gdrive link for structure: https://drive.google.com/file/d/1JVsisPMjPnrMV2YykYsmZfUK0yal5FTz/view?usp=sharing
 
 ⚙️ Jenkins CI/CD Integration
 
